@@ -1,0 +1,14 @@
+{
+  "name": "ruben",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electron main.js"
+  },
+  "author": "js-mord",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
